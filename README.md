@@ -40,6 +40,9 @@ Use the link <https://www.coppeliarobotics.com/files/CoppeliaSim_Edu_V4_4_0_rev0
 
 
 ```bash
+sudo apt install -y python3-cbor python3-zmq
+mkdir -p ~/Documents/simular
 cd ~/Downloads/
 curl -O "https://www.coppeliarobotics.com/files/CoppeliaSim_Edu_V4_4_0_rev0_Ubuntu22_04.tar.xz"
+tar -xvf CoppeliaSim_Edu_V4_4_0_rev0_Ubuntu22_04.tar.xz -C ~/Documents/simular/
 ```
