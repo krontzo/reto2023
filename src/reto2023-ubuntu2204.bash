@@ -1,18 +1,3 @@
-# reto2023
-Challenge 2023 - Team 3 @ Cinvestav
-
-## Requirements
-
-- Asus Xtion sensor
-- Ubuntu 22.04.1 LTS amd64
-
-## Ubuntu
-
-This section lists the Ubuntu 22.04.1 LTS installation steps, for the required software.
-
-Open terminal with Ctrl-Alt-t and enter the commands line by line
-
-```bash
 sudo ufw enable
 sudo apt update -y
 sudo apt upgrade -y
@@ -31,6 +16,4 @@ mkdir -p ~/Documents/basededatos
 cd ~/Documents/basededatos
 ~/Documents/grabar/bin/viewer &
 ~/Documents/etiquetar/build/YoloLabel &
-```
-
 
