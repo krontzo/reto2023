@@ -6,6 +6,7 @@ Challenge 2023 - Team 3 @ Cinvestav
 - Asus Xtion sensor
 - Ubuntu 22.04.1 LTS amd64
 
+
 ## Ubuntu
 
 This section lists the Ubuntu 22.04.1 LTS installation steps, for the required software.
@@ -34,3 +35,12 @@ cd ~/Documents/basededatos
 ```
 
 
+## CoppeliaSim Edu
+
+Use the link <https://www.coppeliarobotics.com/files/CoppeliaSim_Edu_V4_4_0_rev0_Ubuntu22_04.tar.xz>
+
+
+```bash
+cd ~/Downloads/
+curl -O "https://www.coppeliarobotics.com/files/CoppeliaSim_Edu_V4_4_0_rev0_Ubuntu22_04.tar.xz"
+```
