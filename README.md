@@ -6,8 +6,7 @@ Challenge 2023 - Team 3 @ Cinvestav
 - Asus Xtion sensor
 - Ubuntu 22.04.1 LTS amd64
 
-
-## Ubuntu
+## Ubuntu
 
 This section lists the Ubuntu 22.04.1 LTS installation steps, for the required software.
 
